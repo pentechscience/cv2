@@ -1,0 +1,29 @@
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #677A77;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #0E5AA6; 
+    /* other blues: #0E8DA6 */
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: #0E8DA6;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.purpletext {
+    color:purple;
+}
+#boldtext{
+    font-weight: 700;
+}
